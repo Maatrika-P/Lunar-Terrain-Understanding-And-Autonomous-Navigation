@@ -10,7 +10,7 @@ This project is centered on critical aspects of lunar exploration, emphasizing l
 
 📂 We leverage a dataset containing 9,766 realistic renders of lunar landscapes with segmented classes: sky, smaller rocks, and larger rocks. Bounding box data for larger rocks is also provided.
 
-- Dataset source: [Artificial Lunar Landscape]([https://www.unb.ca/cic/datasets/nsl.html](https://www.kaggle.com/datasets/romainpessia/artificial-lunar-rocky-landscape-dataset)
+- Dataset source: [Artificial Lunar Landscape]([https://www.unb.ca/cic/datasets/nsl.html](https://www.kaggle.com/datasets/romainpessia/artificial-lunar-rocky-landscape-dataset])
 
 ## Models
 
@@ -27,7 +27,7 @@ This project is centered on critical aspects of lunar exploration, emphasizing l
 1. **Clone the Repository**: Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/lunar-terrain-navigation.git
+   gh repo clone Maatrika-P/Lunar-Terrain-Understanding-Autonomous-Navigation
 
 2. **Install Dependencies**: Navigate to the project directory and install the required Python packages:
    
