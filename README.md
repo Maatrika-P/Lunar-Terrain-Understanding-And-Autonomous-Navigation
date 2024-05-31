@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is centered on critical aspects of lunar exploration, emphasizing lunar terrain understanding and autonomous navigation for lunar rovers. While advanced lunar landscape generation may be incorporated later, our primary objective is to enhance terrain comprehension for better rover navigation.
+This project is centered on critical aspects of lunar exploration, emphasizing on lunar terrain understanding and autonomous navigation for lunar rovers. While advanced lunar landscape generation may be incorporated later, the primary objective is to enhance terrain comprehension for better rover navigation.
 
 ## Dataset
 
