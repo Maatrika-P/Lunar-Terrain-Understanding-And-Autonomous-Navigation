@@ -1,4 +1,4 @@
-# Lunar Terrain Understanding and Navigation 🌕🌖
+a# Lunar Terrain Understanding and Navigation 🌕🌖
 
 🌕🚀 This project focuses on lunar terrain understanding and autonomous navigation for lunar rovers. Utilizing UNet with VGG16 architecture, we aim to facilitate better navigation by enhancing terrain comprehension.
 
@@ -8,7 +8,7 @@ This project is centered on critical aspects of lunar exploration, emphasizing o
 
 ## Dataset
 
-📂 We leverage a dataset containing 9,766 realistic renders of lunar landscapes with segmented classes: sky, smaller rocks, and larger rocks. Bounding box data for larger rocks is also provided.
+📂 We leverage a dataset containing 9,766 realistic renders of lunar landscapes with segmented classes: sky, smaller rocks, and larger rocks. The bounding box data for larger rocks is also provided.
 
 - Dataset source: [Lunar Landscapes](https://www.kaggle.com/datasets/romainpessia/artificial-lunar-rocky-landscape-dataset)
 
